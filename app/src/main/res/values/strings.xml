@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">todolist</string>
+    <string name="add_task">New task</string>
+    <string name="made_by" translatable="false">Made by Alexandre Brun</string>
+    <string name="title">Titre</string>
+    <string name="content">Description</string>
+    <string name="date">Date</string>
+    <string name="title_add_dial">Add a Task </string>
+    <string name="save_add_dial">Add</string>
+    <string name="cancel_add_dial">Cancel</string>
+    <string name="error_add_dial">All fields must be filled</string>
+    <string name="success_add_dial">Task added</string>
+    <string name="deleted_edit_task">Task deleted</string>
+    <string name="save_edit_dial">Save</string>
+    <string name="done_edit_dial" translatable="false">Delete</string>
+    <string name="description">Long click to Edit</string>
+</resources>
